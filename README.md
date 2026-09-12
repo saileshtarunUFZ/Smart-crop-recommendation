@@ -11,3 +11,12 @@
 1. **Test Soil & Environment:** Enter your soil nutrients (N, P, K), pH level, and local weather details.
 2. **Get AI Choice:** The app instantly names the most profitable crop for your land.
 3. **Get Full Guide:** Along with the crop, you get instant data on required water, pesticide safety steps, current market prices, and matching government benefits.
+4. <!-- Tech Stack Badges -->
+![Python Version](https://shields.io)
+![Framework](https://shields.io)
+![Machine Learning](https://shields.io)
+
+<!-- Project Features & Status Badges -->
+![Features](https://shields.io)
+![Project Status](https://shields.io)
+![License](https://shields.io)
